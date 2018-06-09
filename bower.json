@@ -1,0 +1,21 @@
+{
+  "name": "calculadora",
+  "description": "Uma calculadora em node",
+  "main": "index.js",
+  "authors": [
+    "Allan Assis"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/allanassis/CalculadoraWebNodejs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1"
+  }
+}
