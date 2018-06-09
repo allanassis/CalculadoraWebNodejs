@@ -1,0 +1,23 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.btn-calculadora{
+    width: 5em;
+    height: 7em;
+}
+.centralizar{
+    display: flex;
+    position: relative;
+    align-items: center;
+    align-content: center;
+}
+#calculadora{
+    margin: auto;
+    padding-left: 1em;
+}
+#display{
+    /*display: inline-block;*/
+    width: 20.5em;
+    /*margin-bottom: 0px;*/
+}
